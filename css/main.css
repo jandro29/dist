@@ -1,0 +1,7 @@
+/* Main Font */
+@font-face {
+  font-family: 'MainFont';
+  font-style: normal;
+  font-weight: 300;
+  src: url(@fonts/rajdhani-regular-webfont.woff) format('woff');
+}
